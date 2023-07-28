@@ -1,2 +1,1 @@
-# ASOIAF-Markov
-Markov Chain based on the ASOIAF books
+# Markov chain text generator
